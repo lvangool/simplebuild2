@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/Fq5jtSZk7ShUvTASDWPs5sioGo=",
+			"path": "github.com/ant0ine/go-json-rest/rest",
+			"revision": "ce4b71cdf7ba29ef443d704bd923f5bbf281ee30",
+			"revisionTime": "2016-12-01T03:48:30Z"
+		},
+		{
+			"checksumSHA1": "sXuwczp4nGdlq20zJoGHmA8IYPg=",
+			"path": "github.com/ant0ine/go-json-rest/rest/trie",
+			"revision": "ce4b71cdf7ba29ef443d704bd923f5bbf281ee30",
+			"revisionTime": "2016-12-01T03:48:30Z"
+		}
+	],
+	"rootPath": "github.com/cloud66/pilot"
+}
